@@ -1,5 +1,5 @@
 {
-    "name": "laravel/cashier-mollie",
+    "name": "erikverbeek/cashier-mollie",
     "description": "Laravel Cashier provides an expressive, fluent interface to Mollie's subscription billing services.",
     "keywords": [
         "mollie",
